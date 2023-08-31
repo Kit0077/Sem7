@@ -1,0 +1,15 @@
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\bin\Debug\net6.0\Sem7.3.exe
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\bin\Debug\net6.0\Sem7.3.deps.json
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\bin\Debug\net6.0\Sem7.3.runtimeconfig.json
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\bin\Debug\net6.0\Sem7.3.dll
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\bin\Debug\net6.0\Sem7.3.pdb
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.csproj.AssemblyReference.cache
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.AssemblyInfoInputs.cache
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.AssemblyInfo.cs
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.csproj.CoreCompileInputs.cache
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.dll
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\refint\Sem7.3.dll
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.pdb
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\Sem7.3.genruntimeconfig.cache
+C:\Users\Никита Матвеев\Desktop\My\DzSem7\Sem7.3\obj\Debug\net6.0\ref\Sem7.3.dll
